@@ -25,12 +25,13 @@ I love working at the intersection of:
 
 Here’s a snapshot of what I’m building:
 
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [**Patient Risk Simulation**](https://github.com/ChrisAdan/fhir) | End-to-end healthcare analytics pipeline using FHIR, Snowflake, dbt, and ML features | FHIR, Snowflake, dbt |
-| [**PokéML**](https://github.com/ChrisAdan/pokemon) | Analytics and ML pipeline using open Pokémon training data | Python, SQL, dbt, Snowflake |
-| [**ShiftStats**](https://github.com/ChrisAdan/shiftstats) | Quick-turn analytics project demonstrating ETL and insight generation techniques | Python, Pandas, Jupyter, PostgreSQL, Metabase |
-| [**WeatherStats**](https://github.com/ChrisAdan/weather_stats) | A TDD-driven pipeline to ingest & analyze 50K+ weather CSVs | Python, Pandas, Seaborn |
+| Project | Description | Domain | Tech |
+| ------- | ----------- | ------ | ---- |
+| [**Patient Risk Simulation**](https://github.com/ChrisAdan/fhir) | Full stack healthcare analytics pipeline using FHIR, Snowflake, dbt, and ML features | ![Healthcare](https://img.shields.io/badge/Healthcare-0A9396?style=flat-square) ![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-94D2BD?style=flat-square) ![ML Pipeline](https://img.shields.io/badge/ML%20Pipeline-EE9B00?style=flat-square) | Analytics and ML pipeline using open Pokémon training data | ![FHIR](https://img.shields.io/badge/FHIR-FF595E?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-00B5E2?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square) |
+| [**PokéML**](https://github.com/ChrisAdan/pokemon) | ![Open Data](https://img.shields.io/badge/Open%20Data-8AC926?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCA3A?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-00B5E2?style=flat-square) |
+| [**ShiftStats**](https://github.com/ChrisAdan/shiftstats) | Quick-turn analytics project demonstrating ETL and insight generation techniques | ![Business Analytics](https://img.shields.io/badge/Business%20Analytics-1982C4?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-6A4C93?style=flat-square) ![Data Visualization](https://img.shields.io/badge/Data%20Viz-FF595E?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square) |
+| [**WeatherStats**](https://github.com/ChrisAdan/weather_stats) | A TDD-driven pipeline to ingest & analyze 50K+ weather CSVs | ![Climate Data](https://img.shields.io/badge/Climate%20Data-52B69A?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-6A4C93?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-FFCA3A?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C4C9D?style=flat-square) |
+
 
 ---
 
@@ -52,5 +53,5 @@ Thanks for stopping by — feel free to ⭐️ any repo that inspires you!
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="visitors"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=cadan.cadan" alt="visitors"/>
 </p>
