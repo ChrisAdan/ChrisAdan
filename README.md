@@ -16,7 +16,7 @@ I’m an analytics engineer with a passion for elegant data solutions, clean arc
 
 I love working at the intersection of:
 - **Data Engineering:** pipelines, orchestration, cloud architecture.
-- **Analytics Engineering:** dbt, Snowflake, DuckDB.
+- **Analytics Engineering:** dbt, Snowflake, Python, PostgreSQL.
 - **Visualization & Insights:** EDA, dashboards, storytelling.
 
 ---
