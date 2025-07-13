@@ -52,6 +52,9 @@ Thanks for stopping by — feel free to ⭐️ any repo that inspires you!
 
 ---
 
+
+
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=cadan.cadan" alt="visitors"/>
+  ![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ChrisAdan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)
 </p>
