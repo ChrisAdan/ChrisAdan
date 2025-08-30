@@ -37,19 +37,9 @@ Here's a snapshot of what I'm building:
 
 ---
 
-## 📚 **Featured Writing**
-
-I share what I learn about analytics engineering, data pipelines, and the craft of telling stories with data.
-
-- 📖 [Read on Medium](https://upandtothewrite.medium.com/)
-- 🔗 [Find me on LinkedIn](https://www.linkedin.com/in/chrisadan/)
-
----
-
 ## 🤝 Let's Connect
 
 [![Read On](https://img.shields.io/badge/Read%20On-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/chrisadan/)
-
 [![Connect On](https://img.shields.io/badge/Connect%20On-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisadan/)  
 
 I'm always up for chatting about data architecture, open-source pipelines, or any interesting project.
