@@ -26,8 +26,8 @@ My stakeholders are the engineers and analysts building on top of what I ship. T
 ---
 
 ## Professional Highlights
-
-**Samsung Electronics America** | Senior Data Engineer | March 2024 – Present
+**Astrodata** | Senior Consulting Data Engineer | April 2026 - Present  
+**Samsung Electronics America** | Senior Data Engineer | March 2024 – April 2026
 
 - Architected cross-platform ingestion infrastructure using Snowpipes, external stages, and cross-account IAM/S3 trust policies; unified intra-day batch ingestion across 7 business domains serving 1B+ active devices and 700M+ Samsung accounts; 120% throughput improvement over legacy architecture
 - Maintained monthly compute spend ~60% below enterprise baseline through warehouse tiering, clustering, and query optimization
